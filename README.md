@@ -1,1 +1,1 @@
-# bullet-proof-email-template
+# bulletproof-email-template
